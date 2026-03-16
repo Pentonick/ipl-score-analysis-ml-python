@@ -383,7 +383,7 @@ Possible improvements for this project:
 
 Data Analysis & Machine Learning Project  
 📧 **Email:** [pentonick09@gmail.com]  
-🔗 **LinkedIn:** [![LinkedIn](https://www.linkedin.com/in/divyesh-kaklotar-p09/)
+🔗 **LinkedIn:** [www.linkedin.com/in/divyesh-kaklotar-p09]
 
 ---
 
