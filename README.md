@@ -313,7 +313,6 @@ IPL-Data-Analysis-Project
 ├── use_ipynb.ipynb
 ├── converter.py
 ├── README.md
-├── README.md
 ```
 
 ---
@@ -382,9 +381,9 @@ Possible improvements for this project:
 
 **Divyesh Kaklotar**
 
-Data Analysis & Machine Learning Project
-Email : pentonick09@gmaali.com
-![LinkedIn](https://www.linkedin.com/in/divyesh-kaklotar-p09/)
+*Data Analysis & Machine Learning Project
+*Email : pentonick09@gmaali.com
+*[LinkedIn](https://www.linkedin.com/in/divyesh-kaklotar-p09/)
 
 ---
 
